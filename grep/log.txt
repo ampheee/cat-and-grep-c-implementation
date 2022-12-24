@@ -1,0 +1,94 @@
+
+
+
+
+
+
+
+
+-i -v -n test1 test2 test3
+-i -v -h test1 test2 test3
+-i -v -o test1 test2 test3
+-i -c -l test1 test2 test3
+-i -l -c test1 test2 test3
+-i -n -v test1 test2 test3
+-i -h -v test1 test2 test3
+-i -o -v test1 test2 test3
+-v -i -n test1 test2 test3
+-v -i -h test1 test2 test3
+-v -i -o test1 test2 test3
+-v -c -l test1 test2 test3
+-v -l -c test1 test2 test3
+-v -n -i test1 test2 test3
+-v -n -s test1 test2 test3
+-v -n -o test1 test2 test3
+-v -h -i test1 test2 test3
+-v -h -s test1 test2 test3
+-v -h -o test1 test2 test3
+-v -s -n test1 test2 test3
+-v -s -h test1 test2 test3
+-v -s -o test1 test2 test3
+-v -o -i test1 test2 test3
+-v -o -n test1 test2 test3
+-v -o -h test1 test2 test3
+-v -o -s test1 test2 test3
+-c -i -l test1 test2 test3
+-c -v -l test1 test2 test3
+-c -l -i test1 test2 test3
+-c -l -v test1 test2 test3
+-c -l -n test1 test2 test3
+-c -l -h test1 test2 test3
+-c -l -s test1 test2 test3
+-c -l -o test1 test2 test3
+-c -n -l test1 test2 test3
+-c -h -l test1 test2 test3
+-c -s -l test1 test2 test3
+-c -o -l test1 test2 test3
+-l -i -c test1 test2 test3
+-l -v -c test1 test2 test3
+-l -c -i test1 test2 test3
+-l -c -v test1 test2 test3
+-l -c -n test1 test2 test3
+-l -c -h test1 test2 test3
+-l -c -s test1 test2 test3
+-l -c -o test1 test2 test3
+-l -n -c test1 test2 test3
+-l -h -c test1 test2 test3
+-l -s -c test1 test2 test3
+-l -o -c test1 test2 test3
+-n -i -v test1 test2 test3
+-n -v -i test1 test2 test3
+-n -v -s test1 test2 test3
+-n -v -o test1 test2 test3
+-n -c -l test1 test2 test3
+-n -l -c test1 test2 test3
+-n -s -v test1 test2 test3
+-n -o -v test1 test2 test3
+-h -i -v test1 test2 test3
+-h -v -i test1 test2 test3
+-h -v -s test1 test2 test3
+-h -v -o test1 test2 test3
+-h -c -l test1 test2 test3
+-h -l -c test1 test2 test3
+-h -s -v test1 test2 test3
+-h -o -v test1 test2 test3
+-s -v -n test1 test2 test3
+-s -v -h test1 test2 test3
+-s -v -o test1 test2 test3
+-s -c -l test1 test2 test3
+-s -l -c test1 test2 test3
+-s -n -v test1 test2 test3
+-s -h -v test1 test2 test3
+-s -o -v test1 test2 test3
+-o -i -v test1 test2 test3
+-o -v -i test1 test2 test3
+-o -v -n test1 test2 test3
+-o -v -h test1 test2 test3
+-o -v -s test1 test2 test3
+-o -c -l test1 test2 test3
+-o -l -c test1 test2 test3
+-o -n -v test1 test2 test3
+-o -h -v test1 test2 test3
+-o -s -v test1 test2 test3
+-i -v -c -l  test1 test2 test3
+-i -v -l -c  test1 test2 test3
